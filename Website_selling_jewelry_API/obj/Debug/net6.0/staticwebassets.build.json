@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "oacZwYmamEzZHp69aqbqTRycePXfMriw3yxLiTDxb8I=",
+  "Source": "Website_selling_jewelry_APIAdmin",
+  "BasePath": "_content/Website_selling_jewelry_APIAdmin",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Website_selling_jewelry_APIAdmin\\wwwroot",
+      "Source": "Website_selling_jewelry_APIAdmin",
+      "ContentRoot": "E:\\Kì 2 Năm 3\\Web Api\\Nguyễn Thanh Tùng_Api\\Website_selling_jewelry_API\\wwwroot\\",
+      "BasePath": "_content/Website_selling_jewelry_APIAdmin",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Kì 2 Năm 3\\Web Api\\Nguyễn Thanh Tùng_Api\\Website_selling_jewelry_API\\wwwroot\\images\\product\\z3698855164156_218c70c28b7de0d7a519e4a97bbf48f6.jpg",
+      "SourceId": "Website_selling_jewelry_APIAdmin",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Kì 2 Năm 3\\Web Api\\Nguyễn Thanh Tùng_Api\\Website_selling_jewelry_API\\wwwroot\\",
+      "BasePath": "_content/Website_selling_jewelry_APIAdmin",
+      "RelativePath": "images/product/z3698855164156_218c70c28b7de0d7a519e4a97bbf48f6.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\z3698855164156_218c70c28b7de0d7a519e4a97bbf48f6.jpg"
+    }
+  ]
+}

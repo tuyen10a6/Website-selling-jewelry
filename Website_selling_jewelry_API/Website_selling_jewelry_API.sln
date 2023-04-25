@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Website_selling_jewelry_APIAdmin", "Website_selling_jewelry_APIAdmin.csproj", "{5EAEC86E-9BD2-4613-8095-483FDF40D036}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Website_selling_jewelry_APIAdmin", "Website_selling_jewelry_APIAdmin.csproj", "{5EAEC86E-9BD2-4613-8095-483FDF40D036}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "..\Model\Model.csproj", "{23CB57D8-0E3B-4A48-B22C-3915C1AB1642}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MODEL", "..\Model\MODEL.csproj", "{23CB57D8-0E3B-4A48-B22C-3915C1AB1642}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "..\DAL\DAL.csproj", "{587AB512-AF64-46C9-B60C-83090CAB20FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL", "..\DAL\DAL.csproj", "{587AB512-AF64-46C9-B60C-83090CAB20FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUS", "..\BUS\BUS.csproj", "{C138A6A6-B122-422D-97A5-4822ABC9B49A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BUS", "..\BUS\BUS.csproj", "{C138A6A6-B122-422D-97A5-4822ABC9B49A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Website_selling_jewelry_APIUser", "..\Website_selling_jewelry_APIUser\Website_selling_jewelry_APIUser.csproj", "{06E08B00-E92C-4BA8-8C6A-03E467B6040D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Website_selling_jewelry_APIUser", "..\Website_selling_jewelry_APIUser\Website_selling_jewelry_APIUser.csproj", "{06E08B00-E92C-4BA8-8C6A-03E467B6040D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
